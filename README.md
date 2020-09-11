@@ -14,13 +14,7 @@ CodeIgniter library who allow you to make **powerfull applications** with realti
 
 Just by running following command in the folder of your project :
 ```sh
-composer require romainrg/ratchet_client
-```
-Or by adding following lines to your `composer.json` file :
-```json
-"require": {
-    "romainrg/ratchet_client": "^1.0.0"
-},
+composer require am2tec/ratchet_client
 ```
 Don't forget to include your autoload to CI config file :
 ```php

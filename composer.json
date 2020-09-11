@@ -13,7 +13,7 @@
     "type": "library",
     "authors": [{
         "name": "Alberto Morais",
-        "email": "moraes_101@hotmail.com",
+        "email": "moraes_101@hotmail.com"
     }],
     "require": {
         "php": ">=7.0.0",
